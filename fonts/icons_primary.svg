@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+This is a version of the primary SVG icon font file belonging to the Community Icon Font project.
+You can fork this project from https://github.com/Heydon/Community-Icon-Font/ to add, remove and edit
+the icons herein. Each icon is represented by a glyph tag (see below)
+</metadata>
+<defs>
+<font id="iconsPrimary" horiz-adv-x="1024" >
+  <font-face 
+    font-family="Community Icons Primary Set"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="819"
+    descent="-205"
+    bbox="0 -4.8594 1000 1024"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0046-U+0046"
+  />
+<missing-glyph d="M0 0h1000v1024h-1000v-1024z" />
+    <glyph glyph-name=".notdef" d="M0 0h1000v1024h-1000v-1024z" />
+    <glyph glyph-name="glyph 1" unicode="F" 
+d="M635.352 545.464l-70.7031 -71.025l135.352 -135.968v-230.341h100v251.138c-0.00219727 11.4834 -6.5647 27.393 -14.6484 35.5125zM700 962v-176.738l-481.25 -386.753c-10.35 -8.3252 -18.75 -25.8918 -18.75 -39.2113l1.52588e-05 -0.0290222v-200.91h100v176.738
+l481.25 386.753c10.35 8.3252 18.75 25.8918 18.75 39.2113v0.0289917v200.91h-100zM600 170.915c-4.90216 -0.00999451 -9.65161 -3.20517 -11.5264 -7.75525c-1.87488 -4.55008 -0.763 -10.1828 2.6983 -13.67l150 -150.683
+c2.31342 -2.3179 5.56073 -3.6666 8.82812 -3.6666s6.51471 1.3487 8.82812 3.6666l150 150.683c3.4613 3.48715 4.57318 9.11987 2.6983 13.67c-1.87482 4.55008 -6.62433 7.74564 -11.5264 7.75525h-300zM100 170.915
+c-4.90214 -0.00999451 -9.65163 -3.20517 -11.5265 -7.75525c-1.87484 -4.55008 -0.762985 -10.1828 2.69833 -13.67l150 -150.683c2.3134 -2.3179 5.56076 -3.6666 8.82812 -3.6666s6.51474 1.3487 8.82812 3.6666l150 150.683
+c3.4613 3.48715 4.57318 9.11987 2.69833 13.67c-1.87482 4.55008 -6.62433 7.74564 -11.5265 7.75525z" />
+  </font>
+</defs></svg>
