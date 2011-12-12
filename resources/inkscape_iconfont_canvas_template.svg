@@ -15,7 +15,7 @@
    id="svg5496"
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="inkscape_blank_iconfont_template.svg"
+   sodipodi:docname="inkscape_iconfont_canvas_template.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata5594">
@@ -42,7 +42,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.454"
-     inkscape:cx="339.20705"
+     inkscape:cx="311.67401"
      inkscape:cy="493.36377"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -72,7 +72,7 @@
       <font-face
          units-per-em="1024"
          id="font-face3935"
-         font-family="Heydings Controls" />
+         font-family="Your Icons" />
       <missing-glyph
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph3937" />
