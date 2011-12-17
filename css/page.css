@@ -299,7 +299,6 @@ font-size:1em;
 table {
 width:100%;
 margin:0 0 1.5em;
-font-family:'Cabin';
 }
 
 table td {
@@ -314,10 +313,10 @@ table td strong {
 font-size:2em;
 display:block;
 padding:10px;
+font-family:'Cabin', sans-serif;
 }
 
 table span {
-font-family:'Cabin', sans-serif;
 }
 
 td span {
