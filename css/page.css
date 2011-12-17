@@ -316,6 +316,10 @@ display:block;
 padding:10px;
 }
 
+table span {
+font-family:'Cabin', sans-serif;
+}
+
 td span {
 display:block;
 overflow:hidden;
